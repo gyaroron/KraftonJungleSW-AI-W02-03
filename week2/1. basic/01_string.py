@@ -27,8 +27,8 @@
 def is_palindrome(s):
     """
     문자열이 회문인지 판별하는 함수
-    
     Args:
+    
         s: 판별할 문자열
     
     Returns:
