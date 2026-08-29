@@ -6,20 +6,20 @@
 SW-AI-W02-03-TEMPLATE/
 ├── week2/
 │   ├── 1. basic/             # 기본 개념 학습 (총 15개 문제)
-│   │   ├── 01_string.py             # 문자열 (가장 친숙한 자료형부터)
-│   │   ├── 02_array.py              # 배열
-│   │   ├── 03_python_dict.py        # 파이썬 기본 문법 (딕셔너리)
+│   │   ├── ✅01_string.py             # 문자열 (가장 친숙한 자료형부터)
+│   │   ├── ✅02_array.py              # 배열
+│   │   ├── ✅03_python_dict.py        # 파이썬 기본 문법 (딕셔너리)
 │   │   ├── 04_brute_force.py        # 완전 탐색
-│   │   ├── 05_recursion.py          # 재귀 (팩토리얼/피보나치)
+│   │   ├── ✅05_recursion.py          # 재귀 (팩토리얼/피보나치)
 │   │   ├── 06_backtracking.py       # 백트래킹 (조합 생성)
 │   │   ├── 07_complexity.py         # 시간복잡도
 │   │   ├── 08_bubble_sort.py        # 버블 정렬 (대표 O(n²) 정렬)
 │   │   ├── 09_number_theory.py      # 정수론
 │   │   ├── 10_binary_search.py      # 이분 탐색
 │   │   ├── 11_divide_conquer.py     # 분할정복 (최댓값 찾기)
-│   │   ├── 12_stack.py              # 스택
-│   │   ├── 13_queue.py              # 큐
-│   │   ├── 14_linked_list.py        # 연결 리스트
+│   │   ├── ✅12_stack.py              # 스택
+│   │   ├── ✅13_queue.py              # 큐
+│   │   ├── ✅14_linked_list.py        # 연결 리스트
 │   │   ├── 15_hash_table.py         # 해시 테이블
 │   │   └── check.py                 # 자동 탐지 채점기 (15개)
 │   └── 2. advanced/          # 심화 문제 (난이도 오름차순)
