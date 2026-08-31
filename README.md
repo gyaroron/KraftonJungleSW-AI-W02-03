@@ -25,7 +25,7 @@ SW-AI-W02-03-TEMPLATE/
 │   └── 2. advanced/          # 심화 문제 (난이도 오름차순)
 │       ├── ✅01_quick_sort.py         # 분할정복 응용
 │       ├── 02_merge_sort.py         # 분할정복 응용
-│       ├── 03_priority_queue.py     # 힙 자료구조 응용
+│       ├── ✅03_priority_queue.py     # 힙 자료구조 응용
 │       ├── 04_hanoi_tower.py        # 재귀 응용 (Lucas, 1883, PD)
 │       ├── 05_n_queen.py            # 백트래킹 응용 (Bezzel, 1848, PD)
 │       └── check.py                 # 자동 탐지 채점기 (5개)
