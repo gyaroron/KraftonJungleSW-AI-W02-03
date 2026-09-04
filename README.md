@@ -31,7 +31,7 @@ SW-AI-W02-03-TEMPLATE/
 │       └── check.py                 # 자동 탐지 채점기 (5개)
 ├── week3/
 │   ├── 1. basic/             # 기본 개념 학습 (총 9개 문제)
-│   │   ├── 01_binary_tree.py        # 이진 트리
+│   │   ├── ✅01_binary_tree.py        # 이진 트리
 │   │   ├── 02_bst.py                # 이진 탐색 트리
 │   │   ├── 03_graph_basic.py        # 그래프 기초
 │   │   ├── 04_bfs.py                # 너비 우선 탐색
