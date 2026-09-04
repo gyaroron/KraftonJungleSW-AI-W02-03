@@ -15,7 +15,7 @@ SW-AI-W02-03-TEMPLATE/
 │   │   ├── 07_complexity.py         # 시간복잡도
 │   │   ├── ✅08_bubble_sort.py        # 버블 정렬 (대표 O(n²) 정렬)
 │   │   ├── 09_number_theory.py      # 정수론
-│   │   ├── 10_binary_search.py      # 이분 탐색
+│   │   ├── ✅10_binary_search.py      # 이분 탐색
 │   │   ├── 11_divide_conquer.py     # 분할정복 (최댓값 찾기)
 │   │   ├── ✅12_stack.py              # 스택
 │   │   ├── ✅13_queue.py              # 큐
