@@ -33,7 +33,7 @@ SW-AI-W02-03-TEMPLATE/
 │   ├── 1. basic/             # 기본 개념 학습 (총 9개 문제)
 │   │   ├── ✅01_binary_tree.py        # 이진 트리
 │   │   ├── ✅02_bst.py                # 이진 탐색 트리
-│   │   ├── 03_graph_basic.py        # 그래프 기초
+│   │   ├── ✅03_graph_basic.py        # 그래프 기초
 │   │   ├── 04_bfs.py                # 너비 우선 탐색
 │   │   ├── 05_dfs.py                # 깊이 우선 탐색
 │   │   ├── 06_dp_fibonacci.py       # DP - 피보나치 (top-down memoization)
